@@ -7,5 +7,5 @@
  -->
 
 <locale name="en_US" full_name="U.S. English">
-  <message key="plugins.generic.citedBy.heading">citation</message>
+  <message key="plugins.generic.citedBy.heading">Citation</message>
 </locale>
