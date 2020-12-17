@@ -6,6 +6,7 @@ This plugin shows the citations powered by Crossref Cited by.
 
 # Installation
 copy the folder to \plugins\generic or install via "Upload a new plugin" and activate as enabled.
+https://drive.google.com/file/d/1D1UVTvSgot2kZSa6HW_hT8GDSVnrkEZU/view?usp=sharing
 
 ![2020-12-17 09_44_56-generic](https://user-images.githubusercontent.com/23083888/102489664-8d76d700-404c-11eb-93ce-2e0721f5ea3e.png)
 # Settings
