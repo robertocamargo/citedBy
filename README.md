@@ -4,7 +4,7 @@ This plugin shows the citations powered by Crossref Cited by.
 
 ![citedby](https://user-images.githubusercontent.com/23083888/102489512-5274a380-404c-11eb-9c40-50f8965981c8.png)
 
-# Installation
+# Installation (OJS 3.x)
 copy the folder to \plugins\generic or install via "Upload a new plugin" and activate as enabled.
 https://drive.google.com/file/d/1D1UVTvSgot2kZSa6HW_hT8GDSVnrkEZU/view?usp=sharing
 
