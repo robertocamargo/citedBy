@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/generic/citedBy/version.xml
+  *
+  * Roberto Camargo @btocamargo
+  *
+  -->
+<version>
+	<application>CitedBy</application>
+	<type>plugins.generic</type>
+	<release>1.0.0.0</release>
+	<date>2020-11-27</date>
+	<lazy-load>1</lazy-load>
+	<sitewide>1</sitewide>
+	<class>CitedBy</class>
+</version>

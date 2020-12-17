@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+ * Roberto Camargo @btocamargo
+ * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ -->
+
+<locale name="nl_NL" full_name="Nederlands">
+  <message key="plugins.generic.citedBy.heading">Citaat</message>
+</locale>

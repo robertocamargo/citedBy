@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+ * Roberto Camargo @btocamargo
+ * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ -->
+
+<locale name="it_IT" full_name="Italiano">
+  <message key="plugins.generic.citedBy.heading">Citazione</message>
+</locale>
